@@ -18,6 +18,7 @@
 
 ## 📰 **Links**
 
+- [프로젝트 발표영상](https://youtu.be/K61JR1VgWxg)
 - [비전 길잡이 Notion 📝](https://vision-pathfinder.notion.site/NOTA-AI-Semantic-Segmentation-1669f7d1c9bc4f39b83ac05dd547da9b)
 - [비전 길잡이 발표자료 & WrapUpReport](./appendix/)
 
